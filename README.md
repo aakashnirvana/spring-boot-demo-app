@@ -1,0 +1,1 @@
+This project is a simple Spring Boot application that demonstrates basic CRUD (Create, Read, Update, Delete) operations using a RESTful API. It's built with Java, Spring Boot, and connects to an in-memory H2 database by default. You can use this as a starting point for more complex applications.
